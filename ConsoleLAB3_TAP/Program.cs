@@ -11,6 +11,7 @@ namespace ConsoleLAB3_TAP
         static void Main(string[] args)
         {
             Console.WriteLine("sono online!");
+            Console.WriteLine("ho appena creato il branch beta..");
         }
     }
 }
